@@ -2,7 +2,7 @@
 
 ## **Diapositiva 1: Portada**
 ### *Git - Comandos Básicos para Desarrollo de Software*
-📌 Facultad de Ingeniería de Software  
+📌 Fundamentos de Ingeniería de Software  
 🎤 Duración: 20 minutos  
 👨‍🏫 Presentado por: [Tu Nombre]
 
